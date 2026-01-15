@@ -36,21 +36,10 @@
 - Scikit-learn
 
 **Tools**
+- Pycharm
 - Jupyter Notebook
 - Git & GitHub
 - VS Code
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -65,8 +54,8 @@
 
 ## 🤝 Let’s Connect
 
-- GitHub: [@your-username](https://github.com/saadb-asad)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/saad-bin-asad)
+- GitHub: [@saadb-asad](https://github.com/saadb-asad)
+- LinkedIn: [SaadBinAsad](https://linkedin.com/in/saad-bin-asad)
 
 ---
 

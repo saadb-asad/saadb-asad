@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saad Bin Asad
 
-🎯 Beginner in **Data Science & Machine Learning**  
+🎯 **Data Science & Machine Learning**  
 📍 Learning by building, experimenting, and improving every day
 
 ---
